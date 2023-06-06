@@ -4,11 +4,15 @@ This is a template of a phospho agent. You need to upload the folder with the na
 
 You can find the documentation of phospho at [docs.phospho.app](https://docs.phospho.app) .
 
-# Requirements
+## Version
+
+This template is compatible with phospho version `0.4`, as it now use the `session_id`.
+
+## Requirements
 
 You need to have a valid phospho account to be able to deploy your agent. You can signup [here](https://phospho.app).
 
-# Quickstart 
+## Quickstart 
 
 Clone this repo :
 ```

@@ -2,7 +2,7 @@
     "title": "Title of the project",
     "project_name": "name_of_the_project",
     "short_description": "Short description of the project",
-    "inputs": ["text"],
+    "inputs": ["text", "single_file_upload"],
     "outputs": ["text"],
     "metadata": {}
 }
