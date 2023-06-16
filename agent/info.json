@@ -1,8 +1,8 @@
 {
-    "title": "Title of the project",
-    "project_name": "name_of_the_project",
-    "short_description": "Short description of the project",
-    "inputs": ["text", "single_file_upload"],
+    "title": "knowledgeable agent",
+    "project_name": "knowledgeable-agent",
+    "short_description": "This chatbot will answer your questions about the document provided.",
+    "inputs": ["text"],
     "outputs": ["text"],
     "metadata": {}
 }
